@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Name: Muse NewX Copy Tools
+Name: New X追加パッチ
 Description: Standalone NewX add-on for X 12.43.0-prod.01: post-menu 'Copy post text' and 'Copy media URL', applied alongside Piko
 Version: 0.1.0
 Author: Muse patches
